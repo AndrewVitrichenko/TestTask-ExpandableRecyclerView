@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="title_no_items">There is no items</string>
+</resources>
